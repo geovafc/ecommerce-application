@@ -7,9 +7,6 @@ entity Product {
     image ImageBlob
 }
 
-enum Size {
-    S, M, L, XL, XXL
-}
 
 /** Product categories to group products */
 entity ProductCategory {
